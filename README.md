@@ -15,12 +15,4 @@ The **Sports Management System** is a software project designed to manage sports
 
 ---
 
-## 🛠️ Tech Stack
-- **Frontend**: HTML, CSS, JavaScript (or any framework used)
-- **Backend**: Java / Python / PHP (update based on your implementation)
-- **Database**: MySQL / PostgreSQL / SQLite
-- **IDE/Tools**: VS Code / Eclipse / IntelliJ / XAMPP (if applicable)
-
----
-
 
